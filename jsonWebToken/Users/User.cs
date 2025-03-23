@@ -1,6 +1,8 @@
-﻿namespace JsonWebToken.Users.Infrastructure.Models;
+﻿using Microsoft.AspNetCore.Identity;
 
-public class User
+namespace JsonWebToken.Users.Infrastructure.Models;
+
+public class User : IdentityUser
 {
     public int Id { get; set; }
     public string Username { get; set; }

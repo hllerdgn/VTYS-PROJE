@@ -3,7 +3,8 @@
 }
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,12 +12,13 @@
     <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
+
 <body class="login-register-background">
-    <!-- Login ve Register sayfalarındaki arka plan class'ı -->
+
     <!-- Üstteki Butonlar -->
     <div class="top-buttons">
-        <a href="/Account/Login" class="btn btn-login">Giriş Yap</a>
-        <a href="/Account/Register" class="btn btn-register">Kayıt Ol</a>
+        <a asp-controller="Account" asp-action="Login" class="btn btn-login">Giriş Yap</a>
+        <a asp-controller="Account" asp-action="Register" class="btn btn-register">Kayıt Ol</a>
     </div>
 
     <!-- JWT Bilgileri ve İçerik -->
@@ -70,4 +72,5 @@
 
     <script src="~/js/site.js"></script>
 </body>
+
 </html>

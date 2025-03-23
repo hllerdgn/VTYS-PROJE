@@ -6,13 +6,14 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using JsonWebToken.Users.Infrastructure.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Veritabaný baðlantý dizesini al
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-// DbContext'i ekleyin
+// DbContext'i ekleyin - sadece bir kez tanýmlayýn
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
@@ -36,6 +37,11 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+// Identity servislerini ekleyin
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddEntityFrameworkStores<AppDbContext>()
+    .AddDefaultTokenProviders();
+
 // MVC ve API desteði ekleyin
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllers();
@@ -43,12 +49,18 @@ builder.Services.AddControllers();
 // TokenProvider'ý ekleyin
 builder.Services.AddSingleton<TokenProvider>();
 
+// Swagger ekleyin (isteðe baðlý)
+// builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
 // Geliþtirme ortamýnda hata sayfalarý göster
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
+    // Swagger'ý yalnýzca development ortamýnda etkinleþtirin (isteðe baðlý)
+    // app.UseSwagger();
+    // app.UseSwaggerUI();
 }
 else
 {
@@ -62,26 +74,20 @@ app.UseHttpsRedirection();
 // Statik dosyalarý sunun (CSS, JS, resimler)
 app.UseStaticFiles();
 
-// Routing'i etkinleþtirin (sadece bir kez)
+// Routing'i etkinleþtirin
 app.UseRouting();
 
 // Kimlik doðrulama ve yetkilendirme
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Endpoint yapýlandýrmasý - Sadece bir kez tanýmlayýn
-app.UseEndpoints(endpoints =>
-{
-    // MVC için varsayýlan yönlendirme 
-    endpoints.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Home}/{action=Index}/{id?}");
+// Endpoint yapýlandýrmasý
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllers();
 
-    // API controller'lar için
-    endpoints.MapControllers();
-});
-
-// Swagger URL'sine doðrudan eriþim engelleme
+// Swagger URL'sine doðrudan eriþim engelleme (eðer Swagger kullanýyorsanýz)
 app.Use(async (context, next) =>
 {
     if (context.Request.Path.StartsWithSegments("/swagger"))
@@ -89,7 +95,6 @@ app.Use(async (context, next) =>
         context.Response.Redirect("/");
         return;
     }
-
     await next();
 });
 

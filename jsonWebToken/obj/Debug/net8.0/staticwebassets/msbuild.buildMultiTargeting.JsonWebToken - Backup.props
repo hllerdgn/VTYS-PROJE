@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\JsonWebToken - Backup.props" />
-</Project>

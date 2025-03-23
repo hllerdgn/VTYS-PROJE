@@ -344,3 +344,8 @@ C:\Users\mmizt\Documents\GitHub\jsonWebToken\obj\Debug\net8.0\refint\JsonWebToke
 C:\Users\mmizt\Documents\GitHub\jsonWebToken\obj\Debug\net8.0\JsonWebToken.pdb
 C:\Users\mmizt\Documents\GitHub\jsonWebToken\obj\Debug\net8.0\JsonWebToken.genruntimeconfig.cache
 C:\Users\mmizt\Documents\GitHub\jsonWebToken\obj\Debug\net8.0\ref\JsonWebToken.dll
+C:\Users\mmizt\Documents\GitHub\jsonWebToken\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mmizt\Documents\GitHub\jsonWebToken\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mmizt\Documents\GitHub\jsonWebToken\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mmizt\Documents\GitHub\jsonWebToken\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mmizt\Documents\GitHub\jsonWebToken\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
