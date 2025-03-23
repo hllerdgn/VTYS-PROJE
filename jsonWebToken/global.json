@@ -1,0 +1,6 @@
+﻿{
+  "projects": [ "JsonWebToken" ],
+  "sdk": {
+    "version": "8.0.401"
+  }
+}
