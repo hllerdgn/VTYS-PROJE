@@ -1,9 +1,73 @@
 ﻿@{
     ViewData["Title"] = "Ana Sayfa";
-    Layout = "_Layout";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Hoş Geldiniz</h1>
-    <p>Bu sizin yeni MVC ön yüzünüz!</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="login-register-background">
+    <!-- Login ve Register sayfalarındaki arka plan class'ı -->
+    <!-- Üstteki Butonlar -->
+    <div class="top-buttons">
+        <a href="/Account/Login" class="btn btn-login">Giriş Yap</a>
+        <a href="/Account/Register" class="btn btn-register">Kayıt Ol</a>
+    </div>
+
+    <!-- JWT Bilgileri ve İçerik -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            <div class="jumbotron">
+                <h1 class="display-4">JWT Öğreticisine Hoş Geldiniz!</h1>
+                <p class="lead">Bu sayfada JWT (JSON Web Token) hakkında temel bilgileri öğrenebilirsiniz.</p>
+                <hr class="my-4">
+                <p>JWT, güvenli bir şekilde bilgi iletmek için kullanılan açık bir standarttır.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>JWT Nedir?</h5>
+                        </div>
+                        <div class="card-body">
+                            <p>JSON Web Token (JWT), JSON formatında bilgi içeren, kompakt ve kendinden imzalı bir token türüdür.</p>
+                            <p>JWT üç kısımdan oluşur: Header, Payload ve Signature.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>JWT Nasıl Çalışır?</h5>
+                        </div>
+                        <div class="card-body">
+                            <p>Kullanıcı giriş yaptığında bir JWT oluşturulur ve istemciye gönderilir.</p>
+                            <p>İstemci, sonraki isteklerde bu token'ı göndererek kimliğini doğrular.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>JWT Avantajları</h5>
+                        </div>
+                        <div class="card-body">
+                            <p>Sunucu tarafında durum bilgisi saklamak gerekmez.</p>
+                            <p>Farklı domainler arasında kullanılabilir.</p>
+                            <p>Token içinde farklı bilgiler (claims) taşınabilir.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

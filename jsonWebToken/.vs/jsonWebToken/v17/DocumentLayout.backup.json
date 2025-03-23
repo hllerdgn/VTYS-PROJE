@@ -1,108 +1,124 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\",
+  "WorkspaceRootPath": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\jsonwebtoken.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:jsonwebtoken.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\jsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:jsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\users\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\users\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\users\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\users\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\users\\infrastructure\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmizt\\AppData\\Roaming\\Microsoft\\UserSecrets\\4aff65ab-6b1f-4ea1-b7da-e0be9deebb3e\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\jsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:jsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\jsonwebtoken.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:jsonwebtoken.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\users\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\users\\infrastructure\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\infrastructure\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\documents\\github\\jsonwebtoken\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|c:\\users\\mmizt\\source\\repos\\jsonwebtoken\\users\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A48A7C-3E34-4B3E-8B1D-9515B2520C6D}|JsonWebToken.csproj|solutionrelative:users\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mmizt\\AppData\\Roaming\\Microsoft\\UserSecrets\\4aff65ab-6b1f-4ea1-b7da-e0be9deebb3e\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,32 +128,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 440,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T01:27:20.107Z",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-23T14:40:05.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T00:54:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T13:41:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Users\\User.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\User.cs",
+              "RelativeToolTip": "Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:15:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Users\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\LoginUser.cs",
+              "RelativeToolTip": "Users\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:42:46.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T00:37:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T13:34:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T00:54:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,283 +266,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T00:37:40.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T20:37:52.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:51:23.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T00:54:42.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T01:29:24.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T20:40:39.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T00:45:32.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-23T00:54:53.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "JsonWebToken",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
-              "RelativeDocumentMoniker": "JsonWebToken.csproj",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
-              "RelativeToolTip": "JsonWebToken.csproj",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T23:46:31.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:37:11.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JsonWebToken.http",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\JsonWebToken.http",
-              "RelativeDocumentMoniker": "JsonWebToken.http",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\JsonWebToken.http",
-              "RelativeToolTip": "JsonWebToken.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-23T01:20:06.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T00:54:33.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SecureController.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\SecureController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\SecureController.cs",
-              "RelativeToolTip": "Controllers\\SecureController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:36:57.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T23:04:51.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "global.json",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\global.json",
-              "RelativeDocumentMoniker": "global.json",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\global.json",
-              "RelativeToolTip": "global.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T22:00:38.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T00:54:29.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\LoginUser.cs",
-              "RelativeDocumentMoniker": "Users\\LoginUser.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\LoginUser.cs",
-              "RelativeToolTip": "Users\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:42:46.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\Users\\UserExtensions.cs",
-              "RelativeDocumentMoniker": "Users\\UserExtensions.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\Users\\UserExtensions.cs",
-              "RelativeToolTip": "Users\\UserExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T22:12:07.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Microsoft.NET.Sdk.ImportWorkloads.props",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
-              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-23T00:00:07.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\Infrastructure\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "Users\\Infrastructure\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\Infrastructure\\TokenProvider.cs",
-              "RelativeToolTip": "Users\\Infrastructure\\TokenProvider.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:16:21.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\User.cs",
-              "RelativeDocumentMoniker": "Users\\User.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\User.cs",
-              "RelativeToolTip": "Users\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T20:15:31.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "RegisterUser.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\RegisterUser.cs",
               "RelativeDocumentMoniker": "Users\\RegisterUser.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Users\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\RegisterUser.cs",
               "RelativeToolTip": "Users\\RegisterUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,20 +278,249 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mmizt\\source\\repos\\jsonWebToken\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T00:45:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0MAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T20:47:31.293Z",
+              "WhenOpened": "2025-03-22T19:51:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:37:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T01:29:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T01:27:20.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T20:37:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T20:40:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JsonWebToken.csproj",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.csproj",
+              "RelativeDocumentMoniker": "JsonWebToken.csproj",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.csproj",
+              "RelativeToolTip": "JsonWebToken.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T23:46:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:37:11.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JsonWebToken.http",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.http",
+              "RelativeDocumentMoniker": "JsonWebToken.http",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.http",
+              "RelativeToolTip": "JsonWebToken.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-23T01:20:06.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T00:54:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:36:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:04:51.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T22:00:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T00:54:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\UserExtensions.cs",
+              "RelativeDocumentMoniker": "Users\\UserExtensions.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\UserExtensions.cs",
+              "RelativeToolTip": "Users\\UserExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:12:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.Sdk.ImportWorkloads.props",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-23T00:00:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\Infrastructure\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Users\\Infrastructure\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Users\\Infrastructure\\TokenProvider.cs",
+              "RelativeToolTip": "Users\\Infrastructure\\TokenProvider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:16:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:47:31.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\mmizt\\AppData\\Roaming\\Microsoft\\UserSecrets\\4aff65ab-6b1f-4ea1-b7da-e0be9deebb3e\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4aff65ab-6b1f-4ea1-b7da-e0be9deebb3e\\secrets.json",
@@ -453,8 +528,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4aff65ab-6b1f-4ea1-b7da-e0be9deebb3e\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T19:21:47.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T19:21:47.439Z"
             }
           ]
         }

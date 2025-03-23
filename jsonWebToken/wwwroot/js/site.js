@@ -1,4 +1,13 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿const wrapper = document.querySelector('.wrapper');
+const signUpLink = document.querySelector('.signUp-link');
+const signInLink = document.querySelector('.signIn-link');
 
-// Write your JavaScript code.
+signUpLink.addEventListener('click', () => {
+    wrapper.classList.add('animate-signIn');
+    wrapper.classList.remove('animate-signUp');
+});
+
+signInLink.addEventListener('click', () => {
+    wrapper.classList.add('animate-signUp');
+    wrapper.classList.remove('animate-signIn');
+});

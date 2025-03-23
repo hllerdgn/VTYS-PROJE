@@ -4530,11 +4530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
+      "projectUniqueName": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.csproj",
       "projectName": "JsonWebToken",
-      "projectPath": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
+      "projectPath": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\JsonWebToken.csproj",
       "packagesPath": "C:\\Users\\mmizt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmizt\\source\\repos\\JsonWebToken\\obj\\",
+      "outputPath": "C:\\Users\\mmizt\\Documents\\GitHub\\jsonWebToken\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
